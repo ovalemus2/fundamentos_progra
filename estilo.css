@@ -1,0 +1,20 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(38, 152, 152);
+    color: aliceblue;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button{
+    background-color: blueviolet;
+    width: 3rem;
+    height: 3rem;
+}
+
+.flex h2{
+    color: rgb(255, 255, 255);
+}
